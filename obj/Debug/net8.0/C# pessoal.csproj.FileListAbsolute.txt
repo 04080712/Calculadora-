@@ -1,0 +1,14 @@
+/Users/macbook/C# pessoal/bin/Debug/net8.0/C# pessoal
+/Users/macbook/C# pessoal/bin/Debug/net8.0/C# pessoal.deps.json
+/Users/macbook/C# pessoal/bin/Debug/net8.0/C# pessoal.runtimeconfig.json
+/Users/macbook/C# pessoal/bin/Debug/net8.0/C# pessoal.dll
+/Users/macbook/C# pessoal/bin/Debug/net8.0/C# pessoal.pdb
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.AssemblyInfoInputs.cache
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.AssemblyInfo.cs
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.csproj.CoreCompileInputs.cache
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.dll
+/Users/macbook/C# pessoal/obj/Debug/net8.0/refint/C# pessoal.dll
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.pdb
+/Users/macbook/C# pessoal/obj/Debug/net8.0/C# pessoal.genruntimeconfig.cache
+/Users/macbook/C# pessoal/obj/Debug/net8.0/ref/C# pessoal.dll
